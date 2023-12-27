@@ -1,0 +1,11 @@
+Model Information:
+* title:	куб
+* source:	https://sketchfab.com/3d-models/f4649deb0a2d4a0fa0974f3f6813629a
+* author:	galinaaksamitv (https://sketchfab.com/galinaaksamitv)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "куб" (https://sketchfab.com/3d-models/f4649deb0a2d4a0fa0974f3f6813629a) by galinaaksamitv (https://sketchfab.com/galinaaksamitv) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
